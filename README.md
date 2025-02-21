@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Olá, meu nome é Richardy Borges 👋<br><br>Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na FIAP - Campus Paulista e apaixonado por tecnologia e inovação. Comecei minha jornada na programação em 2023 e, desde então, venho explorando diferentes áreas, com um foco especial em Machine Learning e Automação de Serviços.<br><br>📌 O que estou estudando e desenvolvendo?<br>🚀 Modelos de Machine Learning e análise de dados<br>🤖 Automação de processos e integrações inteligentes<br>🛠️ Desenvolvimento web com Next.js, React e Tailwind CSS<br>📱 Desenvolvimento Mobile com React Native<br>⚙️ .NET para aplicações robustas<br>💼 Estou em busca da minha primeira oportunidade na área de tecnologia! Se você tiver um projeto interessante ou uma oportunidade, ficarei feliz em conversar.</h3>
+<h4 align="left">Olá, meu nome é Richardy Borges 👋<br><br>Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na FIAP - Campus Paulista e apaixonado por tecnologia e inovação. Comecei minha jornada na programação em 2023 e, desde então, venho explorando diferentes áreas, com um foco especial em Machine Learning e Automação de Serviços.<br><br>📌 O que estou estudando e desenvolvendo?<br>🚀 Modelos de Machine Learning e análise de dados<br>🤖 Automação de processos e integrações inteligentes<br>🛠️ Desenvolvimento web com Next.js, React e Tailwind CSS<br>📱 Desenvolvimento Mobile com React Native<br>⚙️ .NET para aplicações robustas<br>💼 Estou em busca da minha primeira oportunidade na área de tecnologia! Se você tiver um projeto interessante ou uma oportunidade, ficarei feliz em conversar.</h4>
 
 ###
 
