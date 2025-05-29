@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Olá, meu nome é Richardy Borges 👋<br><br>Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na FIAP - Campus Paulista e apaixonado por tecnologia e inovação. Comecei minha jornada na programação em 2023 e, desde então, venho explorando diferentes áreas, com um foco especial em Machine Learning e Automação de Serviços.<br><br>📌 O que estou estudando e desenvolvendo?<br>🚀 Modelos de Machine Learning e análise de dados<br>🤖 Automação de processos e integrações inteligentes<br>🛠️ Desenvolvimento web com Next.js, React e Tailwind CSS<br>📱 Desenvolvimento Mobile com React Native<br>⚙️ .NET para aplicações robustas<br>💼 Estou em busca da minha primeira oportunidade na área de tecnologia! Se você tiver um projeto interessante ou uma oportunidade, ficarei feliz em conversar.</h4>
+<h4 align="left">Olá, meu nome é Richardy Borges 👋<br><br>Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na FIAP - Campus Paulista e apaixonado por tecnologia e inovação. Comecei minha jornada na programação em 2023 e, desde então, venho explorando diferentes áreas, com um foco especial em Machine Learning e Automação de Serviços.<br><br>📌 O que estou estudando e desenvolvendo?<br>🚀 Modelos de Machine Learning e análise de dados<br>🤖 Automação de processos e integrações inteligentes<br>🛠️ Desenvolvimento web com Next.js, React e Tailwind CSS<br>📱 Desenvolvimento Mobile com React Native<br>⚙️ C# e .NET para aplicações robustas<br>💼 Estou em busca da minha primeira oportunidade na área de tecnologia! Se você tiver um projeto interessante ou uma oportunidade, ficarei feliz em conversar.</h4>
 
 ###
 
@@ -25,6 +25,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -87,7 +89,7 @@
   <a href="https://discord.com/users/zznagi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="richardybsoficial@gmail.com" target="_blank">
+  <a href="mailto:richardybsoficial@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -105,5 +107,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=212dfjcrlhjievhvsvbkdewui&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
