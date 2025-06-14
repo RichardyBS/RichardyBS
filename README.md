@@ -61,11 +61,12 @@
 </div>
 
 ###
-
+<!--
 <img src="https://raw.githubusercontent.com/RichardyBS/RichardyBS/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
 
+<!--
 <div align="center">
   <a href="https://www.linkedin.com/in/richardybs/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -77,6 +78,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+-->
 
 ###
 
@@ -86,8 +88,9 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://open.spotify.com/user/212dfjcrlhjievhvsvbkdewui">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=212dfjcrlhjievhvsvbkdewui&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+-->
